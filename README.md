@@ -17,8 +17,7 @@ To run this website locally, follow these steps:
    ```sh
    git clone https://github.com/rishavkumar1951/rishav-portfolio.git
 
-#### You can also find me on Linkedin- 
-<img align="center" alt="rishav321 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />https://www.linkedin.com/in/rishav321/</img>
+#### You can also find me on <a href ="https://www.linkedin.com/in/rishav321/" target='blank'><img align="center" alt="rishav321 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></img>@rishav321</a>
 
 ## connect me : 
 email- rishav.dgi@gmail.com
